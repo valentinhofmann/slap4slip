@@ -1,8 +1,7 @@
 # Slap4slip
 
 This repository contains the code for the NAACL 2022 Findings paper 
-[Modeling Ideological Salience and Framing in Polarized Online Groups with Graph Neural Networks and Structured Sparsity]
-(https://aclanthology.org/2022.findings-naacl.41.pdf).
+[Modeling Ideological Salience and Framing in Polarized Online Groups with Graph Neural Networks and Structured Sparsity](https://aclanthology.org/2022.findings-naacl.41.pdf).
 
 # Dependencies
 
